@@ -1,4 +1,4 @@
-19087418794231238
+19037396407354067
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -58666,6 +58666,55 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+MyLibrary
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+MyLibrary
+OKLT6W12NC
+OKL-T/6-W12N-C-1
+Power Supply
+0
+12
+12
+MyLibrary
+SOIC127P600X175-8N
+8-Pin Narrow SOIC
+Integrated Circuit
+0
+8
+8
+MyLibrary
+SOP65P640X120-29N
+A4980KLPTR-T-1
+Integrated Circuit
+0
+29
+29
+MyLibrary
+my_symbol_l
+
+
+0
+0
+0
+MyLibrary
+my_symbol_m
+
+
+0
+0
+0
+MyLibrary
+my_symbol_s
+
+
+0
+0
+0
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -76292,34 +76341,6 @@ rotary encoder
 0
 5
 4
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-OKLT6W12NC
-OKL-T/6-W12N-C-1
-Power Supply
-0
-12
-12
-SamacSys_Parts
-SOIC127P600X175-8N
-8-Pin Narrow SOIC
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-SOP65P640X120-29N
-A4980KLPTR-T-1
-Integrated Circuit
-0
-29
-29
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
