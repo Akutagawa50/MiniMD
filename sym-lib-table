@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MiniMD-rescue)(type Legacy)(uri ${KIPRJMOD}/MiniMD-rescue.lib)(options "")(descr ""))
+)

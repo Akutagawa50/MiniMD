@@ -1,50 +1,6 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# CoulombMini-cache_Connector_Generic_Conn_01x02
-#
-DEF CoulombMini-cache_Connector_Generic_Conn_01x02 J 0 40 Y N 1 F N
-F0 "J" 0 100 50 H V C CNN
-F1 "CoulombMini-cache_Connector_Generic_Conn_01x02" 0 -200 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- Connector*:*_1x??_*
-$ENDFPLIST
-DRAW
-S -50 -95 0 -105 1 1 6 N
-S -50 5 0 -5 1 1 6 N
-S -50 50 50 -150 1 1 10 f
-X Pin_1 1 -200 0 150 R 50 50 1 1 P
-X Pin_2 2 -200 -100 150 R 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# CoulombMini-cache_Connector_Generic_Conn_01x05
-#
-DEF CoulombMini-cache_Connector_Generic_Conn_01x05 J 0 40 Y N 1 F N
-F0 "J" 0 300 50 H V C CNN
-F1 "CoulombMini-cache_Connector_Generic_Conn_01x05" 0 -300 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- Connector*:*_1x??_*
-$ENDFPLIST
-DRAW
-S -50 -195 0 -205 1 1 6 N
-S -50 -95 0 -105 1 1 6 N
-S -50 5 0 -5 1 1 6 N
-S -50 105 0 95 1 1 6 N
-S -50 205 0 195 1 1 6 N
-S -50 250 50 -250 1 1 10 f
-X Pin_1 1 -200 200 150 R 50 50 1 1 P
-X Pin_2 2 -200 100 150 R 50 50 1 1 P
-X Pin_3 3 -200 0 150 R 50 50 1 1 P
-X Pin_4 4 -200 -100 150 R 50 50 1 1 P
-X Pin_5 5 -200 -200 150 R 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # Device_C
 #
 DEF Device_C C 0 10 N Y 1 F N
@@ -155,11 +111,11 @@ X ~ 4 300 100 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# SamacSys_Parts_A3921KLPTR-T
+# MiniMD-rescue_A3921KLPTR-T-SamacSys_Parts
 #
-DEF SamacSys_Parts_A3921KLPTR-T IC 0 30 Y Y 1 F N
+DEF MiniMD-rescue_A3921KLPTR-T-SamacSys_Parts IC 0 30 Y Y 1 F N
 F0 "IC" 1250 300 50 H V L CNN
-F1 "SamacSys_Parts_A3921KLPTR-T" 1250 200 50 H V L CNN
+F1 "MiniMD-rescue_A3921KLPTR-T-SamacSys_Parts" 1250 200 50 H V L CNN
 F2 "SOP65P640X120-29N" 1250 100 50 H I L CNN
 F3 "https://www.allegromicro.com/~/media/Files/Datasheets/A3921-Datasheet.ashx?la=en&hash=97529A83BF6543E7B2E0B23F3CD9C54723611927" 1250 0 50 H I L CNN
 F4 "IC FULL BRIDGE CTLR 28TSSOP" 1250 -100 50 H I L CNN "Description"
@@ -202,11 +158,55 @@ X CA 9 0 -800 200 R 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
-# SamacSys_Parts_SI4900DY-T1-E3
+# MiniMD-rescue_Connector_Generic_Conn_01x02-CoulombMini-cache
 #
-DEF SamacSys_Parts_SI4900DY-T1-E3 IC 0 30 Y Y 1 F N
+DEF MiniMD-rescue_Connector_Generic_Conn_01x02-CoulombMini-cache J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "MiniMD-rescue_Connector_Generic_Conn_01x02-CoulombMini-cache" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 50 50 -150 1 1 10 f
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+X Pin_2 2 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# MiniMD-rescue_Connector_Generic_Conn_01x05-CoulombMini-cache
+#
+DEF MiniMD-rescue_Connector_Generic_Conn_01x05-CoulombMini-cache J 0 40 Y N 1 F N
+F0 "J" 0 300 50 H V C CNN
+F1 "MiniMD-rescue_Connector_Generic_Conn_01x05-CoulombMini-cache" 0 -300 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -195 0 -205 1 1 6 N
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 205 0 195 1 1 6 N
+S -50 250 50 -250 1 1 10 f
+X Pin_1 1 -200 200 150 R 50 50 1 1 P
+X Pin_2 2 -200 100 150 R 50 50 1 1 P
+X Pin_3 3 -200 0 150 R 50 50 1 1 P
+X Pin_4 4 -200 -100 150 R 50 50 1 1 P
+X Pin_5 5 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# MiniMD-rescue_SI4900DY-T1-E3-SamacSys_Parts
+#
+DEF MiniMD-rescue_SI4900DY-T1-E3-SamacSys_Parts IC 0 30 Y Y 1 F N
 F0 "IC" 850 300 50 H V L CNN
-F1 "SamacSys_Parts_SI4900DY-T1-E3" 850 200 50 H V L CNN
+F1 "MiniMD-rescue_SI4900DY-T1-E3-SamacSys_Parts" 850 200 50 H V L CNN
 F2 "SOIC127P600X175-8N" 850 100 50 H I L CNN
 F3 "http://www.vishay.com/docs/73272/si4900dy.pdf" 850 0 50 H I L CNN
 F4 "SI4900DY-T1-E3, Dual N-channel MOSFET Transistor 4.3 A 60 V, 8-Pin SOIC" 850 -100 50 H I L CNN "Description"
@@ -248,20 +248,25 @@ X K 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Switch_SW_Push
+# Switch_SW_MEC_5G
 #
-DEF Switch_SW_Push SW 0 40 N N 1 F N
+DEF Switch_SW_MEC_5G SW 0 40 N N 1 F N
 F0 "SW" 50 100 50 H V L CNN
-F1 "Switch_SW_Push" 0 -60 50 H V C CNN
+F1 "Switch_SW_MEC_5G" 0 -60 50 H V C CNN
 F2 "" 0 200 50 H I C CNN
 F3 "" 0 200 50 H I C CNN
+$FPLIST
+ SW*MEC*5G*
+$ENDFPLIST
 DRAW
 C -80 0 20 0 1 0 N
 C 80 0 20 0 1 0 N
 P 2 0 1 0 0 50 0 120 N
 P 2 0 1 0 100 50 -100 50 N
-X 1 1 -200 0 100 R 50 50 0 1 P
-X 2 2 200 0 100 L 50 50 0 1 P
+X A 1 -200 0 100 R 50 50 0 1 P
+X B 3 200 0 100 L 50 50 0 1 P
+X A 2 -200 0 100 R 50 50 1 1 P N
+X B 4 200 0 100 L 50 50 1 1 P N
 ENDDRAW
 ENDDEF
 #
