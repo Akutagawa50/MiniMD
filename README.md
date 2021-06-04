@@ -25,6 +25,7 @@ PHASE, PWMHはプルアップ
 | 逆転 | 1   | 1    |
 
 # 回路図
+https://github.com/Akutagawa50/MiniMD/blob/0ade2ae8e789b871e048b73d981d6f0f50aa8e78/circuit.pdf
 
 # 使用部品
 ## 半導体素子
