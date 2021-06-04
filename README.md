@@ -151,7 +151,7 @@ https://akizukidenshi.com/catalog/g/gC-12262/
 [<img src="https://akizukidenshi.com/img/goods/L/C-12262.jpg" width=200>](https://akizukidenshi.com/catalog/g/gC-12262/)
 <br>
 
-ＸＨコネクタ　ベース付ポスト　サイド型　3P　S3B-XH-A（LF）（SN）
+XHコネクタ　ベース付ポスト　サイド型　3P　S3B-XH-A（LF）（SN）
 
 https://akizukidenshi.com/catalog/g/gC-12263/
 
