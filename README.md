@@ -153,9 +153,9 @@ https://akizukidenshi.com/catalog/g/gC-12262/
 
 XHコネクタ　ベース付ポスト　サイド型　5P　S5B－XH－A（LF）（SN）
 
-https://akizukidenshi.com/catalog/g/gC-12428/
+https://akizukidenshi.com/catalog/g/gC-12263/
 
-[<img src="https://akizukidenshi.com/img/goods/C/C-12428.jpg" width=200>](https://akizukidenshi.com/catalog/g/gC-12428/)
+[<img src="https://akizukidenshi.com/img/goods/C/C-12.jpg" width=200>](https://akizukidenshi.com/catalog/g/gC-12263/)
 <br>
 
 XHコネクタ　ハウジング用コンタクト　SXH－001T－P0.6　（100個入）
