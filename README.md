@@ -31,6 +31,7 @@ PHASE, PWMHはプルアップ
 ### ゲートドライバ
 フルブリッジMOSFETドライバ　A3921KLPTR－T
 https://akizukidenshi.com/catalog/g/gI-12293/
+
 [<img src="https://akizukidenshi.com/img/goods/L/I-12293.jpg" width=200>](https://akizukidenshi.com/catalog/g/gI-12293/)
 
 ### MOSFET
