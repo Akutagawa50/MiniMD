@@ -108,18 +108,15 @@ https://akizukidenshi.com/catalog/g/gP-04577/
 チップ積層セラミックコンデンサー　0.22μF250V　X7T　3216　（20個入）
 
 https://akizukidenshi.com/catalog/g/gP-10797/
-
 [<img src="https://akizukidenshi.com/img/goods/L/P-10797.jpg"　width=200>](https://akizukidenshi.com/catalog/g/gP-10797/)
 
 <br>
-
 チップ積層セラミックコンデンサー　0.47μF50V　X7R　3216　（10個入）
 
 https://akizukidenshi.com/catalog/g/gP-14576/
 
 [<img src="https://akizukidenshi.com/img/goods/C/P-14576.JPG"　width=200>](https://akizukidenshi.com/catalog/g/gP-14576/)
 
-<br>
 
 チップ積層セラミックコンデンサー　1μF16V F 1608　（100個入）
 
