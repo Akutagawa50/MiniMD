@@ -70,7 +70,7 @@ https://akizukidenshi.com/catalog/g/gI-03982/
 
 https://akizukidenshi.com/catalog/g/gR-11790/ (5個)
 
-https://akizukidenshi.com/catalog/g/gR-14122/ (100個)
+https://akizukidenshi.com/catalog/g/gR-14122/ (5000個)
 <!--
 [<img src="https://akizukidenshi.com/img/goods/C/R-11790.jpg" width=200>](https://akizukidenshi.com/catalog/g/gR-11790/)
 -->
