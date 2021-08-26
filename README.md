@@ -112,7 +112,7 @@ https://akizukidenshi.com/catalog/g/gP-04577/
 
 https://akizukidenshi.com/catalog/g/gP-14576/
 
-[<img src="https://akizukidenshi.com/img/goods/C/P-14576.JPG"　width=200>](https://akizukidenshi.com/catalog/g/gP-14576/)
+[<img src="https://akizukidenshi.com/img/goods/L/P-14576.JPG"　width=200>](https://akizukidenshi.com/catalog/g/gP-14576/)
 
 
 チップ積層セラミックコンデンサー　1μF16V F 1608　（100個入）
