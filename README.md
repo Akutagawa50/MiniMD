@@ -25,6 +25,7 @@ PHASE, PWMHはプルアップ
 | 逆転 | 1   | 1    |
 
 # 回路図
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLVtr0s_pLdUYvv3FIP3urzQAt_giZksRvlwVXNLhzUQKlLJU35K_e6x2OqUKUvNB6hKXyk7VZXiCSfVLDs7QXf6ahw_7AAWCc7bZEOREobiXPUkd44-rBmBb0tnIZXHehVkMqo8-bs6HLYogjy6Q8DP=w1313-h879-no?authuser=2">
 https://github.com/Akutagawa50/MiniMD/blob/0ade2ae8e789b871e048b73d981d6f0f50aa8e78/circuit.pdf
 
 # 使用部品
@@ -106,11 +107,6 @@ https://akizukidenshi.com/catalog/g/gP-04577/
 [<img src="https://akizukidenshi.com/img/goods/C/P-04577.jpg" width=200>](https://akizukidenshi.com/catalog/g/gP-04577/)
 
 ### チップコンデンサ
-チップ積層セラミックコンデンサー　0.22μF250V　X7T　3216　（20個入）
-
-https://akizukidenshi.com/catalog/g/gP-10797/
-[<img src="https://akizukidenshi.com/img/goods/L/P-10797.jpg"　width=200>](https://akizukidenshi.com/catalog/g/gP-10797/)
-
 <br>
 チップ積層セラミックコンデンサー　0.47μF50V　X7R　3216　（10個入）
 
